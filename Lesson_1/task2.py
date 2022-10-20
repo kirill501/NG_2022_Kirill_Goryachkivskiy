@@ -16,6 +16,6 @@ while True:
         if b!= 0:
             print(a / b)
         else:
-            print("Ошибка")
+            print("ERROR")
         
         
